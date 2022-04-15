@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![giphy](https://user-images.githubusercontent.com/96732813/163594388-13a5f9ef-9625-4a95-9860-d3fbce4fa403.gif)
-
+![giphy (1)](https://user-images.githubusercontent.com/96732813/163595265-869f4c9b-bc66-47c6-a6f9-9f68d6b85a1b.gif)
 
 
 <!--
