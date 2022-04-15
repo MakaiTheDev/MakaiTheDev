@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![ezgif-1-51d890d8dc](https://user-images.githubusercontent.com/96732813/163594094-a6021974-8bb2-4686-9fe9-da6edf420938.gif)
+
+
+
 <!--
 **MakaiTheDev/MakaiTheDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
